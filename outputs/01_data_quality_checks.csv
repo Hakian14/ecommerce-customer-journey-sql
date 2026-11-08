@@ -1,0 +1,18 @@
+check_name,issues
+orders.customer_id not in customers,0
+order_items.order_id not in orders,0
+order_items.product_id not in products,0
+orders without any order_items,0
+orders without a payment,0
+payment amount != items net + shipping,0
+delivered orders missing delivered_at,0
+non-delivered orders with delivered_at,0
+orders placed before customer signup,0
+delivered before ordered,0
+discount larger than line value,0
+review score outside 1..5,0
+duplicate order_id,0
+orders with more than one payment,0
+purchase events without matching order,0
+orders without a purchase event,0
+unknown event_type values,0

@@ -1,0 +1,6 @@
+channel,sessions,product_views,add_to_carts,checkouts,purchases,view_to_product_pct,product_to_cart_pct,cart_to_checkout_pct,checkout_to_purchase_pct,session_conversion_pct,biggest_drop_off
+mobile_app,28491,21305,11030,5681,4091,74.8,51.8,51.5,72.0,14.36,product -> cart
+web,46026,30203,12314,5787,4726,65.6,40.8,47.0,81.7,10.27,product -> cart
+marketplace,31948,24862,11344,4699,3234,77.8,45.6,41.4,68.8,10.12,product -> cart
+social_commerce,27825,14551,3755,1521,1378,52.3,25.8,40.5,90.6,4.95,landing -> product
+ALL CHANNELS,134290,90921,38443,17688,13429,67.7,42.3,46.0,75.9,10.0,product -> cart

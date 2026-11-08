@@ -1,0 +1,321 @@
+product_id,category,product_name,unit_price,unit_cost
+P10000,Baby & Kids,Baby item 0000,165000,92000
+P10001,Home & Living,Home item 0001,1111000,600000
+P10002,Men's Fashion,Men's item 0002,328000,164000
+P10003,Men's Fashion,Men's item 0003,219000,112000
+P10004,Footwear,Footwear item 0004,714000,378000
+P10005,Footwear,Footwear item 0005,301000,171000
+P10006,Women's Fashion,Women's item 0006,1188000,501000
+P10007,Sports & Outdoors,Sports item 0007,1014000,601000
+P10008,Footwear,Footwear item 0008,331000,175000
+P10009,Baby & Kids,Baby item 0009,1211000,667000
+P10010,Groceries,Groceries item 0010,391000,277000
+P10011,Accessories,Accessories item 0011,713000,312000
+P10012,Groceries,Groceries item 0012,33000,25000
+P10013,Men's Fashion,Men's item 0013,701000,363000
+P10014,Kitchen,Kitchen item 0014,165000,96000
+P10015,Groceries,Groceries item 0015,261000,200000
+P10016,Baby & Kids,Baby item 0016,532000,296000
+P10017,Men's Fashion,Men's item 0017,1684000,750000
+P10018,Footwear,Footwear item 0018,2220000,1169000
+P10019,Footwear,Footwear item 0019,2005000,963000
+P10020,Pet Supplies,Pet item 0020,355000,224000
+P10021,Footwear,Footwear item 0021,1530000,718000
+P10022,Beauty & Personal Care,Beauty item 0022,233000,108000
+P10023,Accessories,Accessories item 0023,78000,32000
+P10024,Accessories,Accessories item 0024,794000,326000
+P10025,Beauty & Personal Care,Beauty item 0025,82000,39000
+P10026,Accessories,Accessories item 0026,149000,55000
+P10027,Kitchen,Kitchen item 0027,2247000,1266000
+P10028,Beauty & Personal Care,Beauty item 0028,88000,46000
+P10029,Beauty & Personal Care,Beauty item 0029,88000,43000
+P10030,Beauty & Personal Care,Beauty item 0030,281000,129000
+P10031,Accessories,Accessories item 0031,249000,99000
+P10032,Baby & Kids,Baby item 0032,658000,342000
+P10033,Beauty & Personal Care,Beauty item 0033,175000,90000
+P10034,Beauty & Personal Care,Beauty item 0034,67000,31000
+P10035,Men's Fashion,Men's item 0035,303000,134000
+P10036,Women's Fashion,Women's item 0036,133000,66000
+P10037,Baby & Kids,Baby item 0037,323000,179000
+P10038,Sports & Outdoors,Sports item 0038,273000,138000
+P10039,Footwear,Footwear item 0039,1408000,765000
+P10040,Accessories,Accessories item 0040,831000,301000
+P10041,Accessories,Accessories item 0041,74000,31000
+P10042,Electronics Accessories,Electronics item 0042,132000,78000
+P10043,Men's Fashion,Men's item 0043,317000,140000
+P10044,Groceries,Groceries item 0044,296000,248000
+P10045,Women's Fashion,Women's item 0045,600000,264000
+P10046,Groceries,Groceries item 0046,238000,191000
+P10047,Women's Fashion,Women's item 0047,887000,400000
+P10048,Footwear,Footwear item 0048,2271000,1131000
+P10049,Footwear,Footwear item 0049,1005000,555000
+P10050,Footwear,Footwear item 0050,1958000,1109000
+P10051,Groceries,Groceries item 0051,71000,58000
+P10052,Beauty & Personal Care,Beauty item 0052,143000,74000
+P10053,Women's Fashion,Women's item 0053,191000,85000
+P10054,Groceries,Groceries item 0054,387000,321000
+P10055,Footwear,Footwear item 0055,784000,379000
+P10056,Women's Fashion,Women's item 0056,328000,137000
+P10057,Women's Fashion,Women's item 0057,143000,70000
+P10058,Beauty & Personal Care,Beauty item 0058,262000,120000
+P10059,Health & Wellness,Health item 0059,770000,373000
+P10060,Women's Fashion,Women's item 0060,326000,139000
+P10061,Phones & Gadgets,Phones item 0061,1410000,1249000
+P10062,Footwear,Footwear item 0062,1311000,680000
+P10063,Men's Fashion,Men's item 0063,1153000,600000
+P10064,Electronics Accessories,Electronics item 0064,746000,529000
+P10065,Phones & Gadgets,Phones item 0065,19582000,18378000
+P10066,Home & Living,Home item 0066,242000,131000
+P10067,Men's Fashion,Men's item 0067,913000,469000
+P10068,Women's Fashion,Women's item 0068,960000,444000
+P10069,Phones & Gadgets,Phones item 0069,13919000,12756000
+P10070,Kitchen,Kitchen item 0070,1124000,613000
+P10071,Beauty & Personal Care,Beauty item 0071,238000,108000
+P10072,Men's Fashion,Men's item 0072,189000,91000
+P10073,Baby & Kids,Baby item 0073,82000,49000
+P10074,Women's Fashion,Women's item 0074,374000,175000
+P10075,Kitchen,Kitchen item 0075,158000,101000
+P10076,Electronics Accessories,Electronics item 0076,226000,149000
+P10077,Men's Fashion,Men's item 0077,751000,363000
+P10078,Beauty & Personal Care,Beauty item 0078,324000,170000
+P10079,Home & Living,Home item 0079,1685000,939000
+P10080,Kitchen,Kitchen item 0080,2976000,1733000
+P10081,Health & Wellness,Health item 0081,203000,104000
+P10082,Home & Living,Home item 0082,310000,173000
+P10083,Women's Fashion,Women's item 0083,1011000,461000
+P10084,Accessories,Accessories item 0084,820000,301000
+P10085,Kitchen,Kitchen item 0085,925000,510000
+P10086,Accessories,Accessories item 0086,188000,73000
+P10087,Baby & Kids,Baby item 0087,686000,396000
+P10088,Men's Fashion,Men's item 0088,271000,122000
+P10089,Men's Fashion,Men's item 0089,425000,193000
+P10090,Men's Fashion,Men's item 0090,806000,388000
+P10091,Books & Stationery,Books item 0091,248000,169000
+P10092,Electronics Accessories,Electronics item 0092,157000,110000
+P10093,Home & Living,Home item 0093,1508000,813000
+P10094,Footwear,Footwear item 0094,1713000,887000
+P10095,Health & Wellness,Health item 0095,753000,415000
+P10096,Books & Stationery,Books item 0096,292000,190000
+P10097,Accessories,Accessories item 0097,542000,209000
+P10098,Baby & Kids,Baby item 0098,1828000,1038000
+P10099,Health & Wellness,Health item 0099,914000,519000
+P10100,Footwear,Footwear item 0100,332000,167000
+P10101,Accessories,Accessories item 0101,560000,243000
+P10102,Home & Living,Home item 0102,1393000,805000
+P10103,Beauty & Personal Care,Beauty item 0103,127000,64000
+P10104,Baby & Kids,Baby item 0104,265000,157000
+P10105,Home & Living,Home item 0105,682000,387000
+P10106,Men's Fashion,Men's item 0106,518000,270000
+P10107,Accessories,Accessories item 0107,294000,111000
+P10108,Electronics Accessories,Electronics item 0108,245000,158000
+P10109,Women's Fashion,Women's item 0109,263000,124000
+P10110,Accessories,Accessories item 0110,109000,44000
+P10111,Women's Fashion,Women's item 0111,366000,164000
+P10112,Sports & Outdoors,Sports item 0112,744000,432000
+P10113,Women's Fashion,Women's item 0113,172000,74000
+P10114,Women's Fashion,Women's item 0114,845000,411000
+P10115,Baby & Kids,Baby item 0115,81000,41000
+P10116,Women's Fashion,Women's item 0116,1269000,531000
+P10117,Electronics Accessories,Electronics item 0117,1392000,964000
+P10118,Accessories,Accessories item 0118,71000,26000
+P10119,Sports & Outdoors,Sports item 0119,2789000,1485000
+P10120,Men's Fashion,Men's item 0120,572000,260000
+P10121,Women's Fashion,Women's item 0121,547000,263000
+P10122,Men's Fashion,Men's item 0122,767000,335000
+P10123,Health & Wellness,Health item 0123,535000,293000
+P10124,Sports & Outdoors,Sports item 0124,229000,135000
+P10125,Footwear,Footwear item 0125,1059000,497000
+P10126,Men's Fashion,Men's item 0126,1592000,756000
+P10127,Men's Fashion,Men's item 0127,267000,118000
+P10128,Men's Fashion,Men's item 0128,380000,175000
+P10129,Men's Fashion,Men's item 0129,315000,160000
+P10130,Books & Stationery,Books item 0130,150000,86000
+P10131,Women's Fashion,Women's item 0131,718000,338000
+P10132,Books & Stationery,Books item 0132,104000,71000
+P10133,Women's Fashion,Women's item 0133,246000,101000
+P10134,Sports & Outdoors,Sports item 0134,132000,71000
+P10135,Beauty & Personal Care,Beauty item 0135,267000,122000
+P10136,Women's Fashion,Women's item 0136,501000,244000
+P10137,Baby & Kids,Baby item 0137,1012000,576000
+P10138,Footwear,Footwear item 0138,1147000,624000
+P10139,Books & Stationery,Books item 0139,98000,60000
+P10140,Baby & Kids,Baby item 0140,196000,99000
+P10141,Groceries,Groceries item 0141,122000,95000
+P10142,Sports & Outdoors,Sports item 0142,176000,94000
+P10143,Footwear,Footwear item 0143,1532000,758000
+P10144,Beauty & Personal Care,Beauty item 0144,215000,100000
+P10145,Electronics Accessories,Electronics item 0145,74000,51000
+P10146,Footwear,Footwear item 0146,291000,145000
+P10147,Home & Living,Home item 0147,3256000,1879000
+P10148,Men's Fashion,Men's item 0148,677000,334000
+P10149,Electronics Accessories,Electronics item 0149,81000,51000
+P10150,Accessories,Accessories item 0150,159000,60000
+P10151,Women's Fashion,Women's item 0151,217000,100000
+P10152,Pet Supplies,Pet item 0152,58000,32000
+P10153,Sports & Outdoors,Sports item 0153,760000,421000
+P10154,Footwear,Footwear item 0154,1023000,482000
+P10155,Women's Fashion,Women's item 0155,712000,343000
+P10156,Phones & Gadgets,Phones item 0156,4860000,4568000
+P10157,Men's Fashion,Men's item 0157,405000,178000
+P10158,Kitchen,Kitchen item 0158,377000,224000
+P10159,Baby & Kids,Baby item 0159,1274000,678000
+P10160,Footwear,Footwear item 0160,516000,289000
+P10161,Footwear,Footwear item 0161,446000,239000
+P10162,Women's Fashion,Women's item 0162,274000,134000
+P10163,Footwear,Footwear item 0163,387000,210000
+P10164,Kitchen,Kitchen item 0164,726000,477000
+P10165,Men's Fashion,Men's item 0165,1774000,902000
+P10166,Pet Supplies,Pet item 0166,57000,33000
+P10167,Phones & Gadgets,Phones item 0167,15152000,13703000
+P10168,Men's Fashion,Men's item 0168,1332000,678000
+P10169,Home & Living,Home item 0169,261000,142000
+P10170,Accessories,Accessories item 0170,127000,53000
+P10171,Accessories,Accessories item 0171,201000,73000
+P10172,Home & Living,Home item 0172,1323000,697000
+P10173,Women's Fashion,Women's item 0173,337000,151000
+P10174,Men's Fashion,Men's item 0174,524000,233000
+P10175,Men's Fashion,Men's item 0175,962000,494000
+P10176,Men's Fashion,Men's item 0176,850000,445000
+P10177,Electronics Accessories,Electronics item 0177,102000,62000
+P10178,Groceries,Groceries item 0178,25000,20000
+P10179,Electronics Accessories,Electronics item 0179,72000,51000
+P10180,Groceries,Groceries item 0180,137000,113000
+P10181,Home & Living,Home item 0181,413000,251000
+P10182,Footwear,Footwear item 0182,694000,364000
+P10183,Books & Stationery,Books item 0183,214000,126000
+P10184,Women's Fashion,Women's item 0184,1120000,526000
+P10185,Women's Fashion,Women's item 0185,791000,337000
+P10186,Pet Supplies,Pet item 0186,54000,29000
+P10187,Electronics Accessories,Electronics item 0187,417000,252000
+P10188,Health & Wellness,Health item 0188,1796000,1040000
+P10189,Women's Fashion,Women's item 0189,129000,61000
+P10190,Baby & Kids,Baby item 0190,168000,89000
+P10191,Men's Fashion,Men's item 0191,273000,140000
+P10192,Accessories,Accessories item 0192,662000,240000
+P10193,Books & Stationery,Books item 0193,53000,33000
+P10194,Beauty & Personal Care,Beauty item 0194,286000,131000
+P10195,Electronics Accessories,Electronics item 0195,810000,572000
+P10196,Books & Stationery,Books item 0196,76000,50000
+P10197,Books & Stationery,Books item 0197,163000,103000
+P10198,Women's Fashion,Women's item 0198,950000,425000
+P10199,Men's Fashion,Men's item 0199,585000,268000
+P10200,Health & Wellness,Health item 0200,760000,375000
+P10201,Home & Living,Home item 0201,200000,116000
+P10202,Beauty & Personal Care,Beauty item 0202,190000,90000
+P10203,Women's Fashion,Women's item 0203,195000,94000
+P10204,Women's Fashion,Women's item 0204,534000,234000
+P10205,Pet Supplies,Pet item 0205,710000,446000
+P10206,Beauty & Personal Care,Beauty item 0206,84000,43000
+P10207,Baby & Kids,Baby item 0207,195000,108000
+P10208,Men's Fashion,Men's item 0208,893000,387000
+P10209,Men's Fashion,Men's item 0209,537000,247000
+P10210,Home & Living,Home item 0210,602000,322000
+P10211,Books & Stationery,Books item 0211,241000,151000
+P10212,Footwear,Footwear item 0212,406000,223000
+P10213,Accessories,Accessories item 0213,56000,23000
+P10214,Home & Living,Home item 0214,533000,281000
+P10215,Women's Fashion,Women's item 0215,225000,93000
+P10216,Accessories,Accessories item 0216,415000,173000
+P10217,Home & Living,Home item 0217,112000,60000
+P10218,Women's Fashion,Women's item 0218,1109000,469000
+P10219,Kitchen,Kitchen item 0219,285000,177000
+P10220,Women's Fashion,Women's item 0220,140000,69000
+P10221,Electronics Accessories,Electronics item 0221,43000,30000
+P10222,Baby & Kids,Baby item 0222,235000,120000
+P10223,Sports & Outdoors,Sports item 0223,404000,248000
+P10224,Electronics Accessories,Electronics item 0224,272000,161000
+P10225,Home & Living,Home item 0225,2806000,1511000
+P10226,Footwear,Footwear item 0226,284000,134000
+P10227,Beauty & Personal Care,Beauty item 0227,713000,332000
+P10228,Women's Fashion,Women's item 0228,189000,93000
+P10229,Electronics Accessories,Electronics item 0229,367000,228000
+P10230,Women's Fashion,Women's item 0230,528000,225000
+P10231,Beauty & Personal Care,Beauty item 0231,264000,128000
+P10232,Beauty & Personal Care,Beauty item 0232,387000,204000
+P10233,Electronics Accessories,Electronics item 0233,141000,85000
+P10234,Accessories,Accessories item 0234,140000,59000
+P10235,Beauty & Personal Care,Beauty item 0235,634000,335000
+P10236,Home & Living,Home item 0236,3179000,1964000
+P10237,Health & Wellness,Health item 0237,1638000,890000
+P10238,Electronics Accessories,Electronics item 0238,92000,61000
+P10239,Footwear,Footwear item 0239,394000,188000
+P10240,Sports & Outdoors,Sports item 0240,317000,173000
+P10241,Women's Fashion,Women's item 0241,719000,315000
+P10242,Footwear,Footwear item 0242,252000,142000
+P10243,Women's Fashion,Women's item 0243,532000,226000
+P10244,Beauty & Personal Care,Beauty item 0244,128000,59000
+P10245,Kitchen,Kitchen item 0245,2806000,1593000
+P10246,Home & Living,Home item 0246,2797000,1546000
+P10247,Sports & Outdoors,Sports item 0247,1572000,794000
+P10248,Home & Living,Home item 0248,497000,281000
+P10249,Men's Fashion,Men's item 0249,344000,181000
+P10250,Home & Living,Home item 0250,1219000,672000
+P10251,Phones & Gadgets,Phones item 0251,10663000,8688000
+P10252,Beauty & Personal Care,Beauty item 0252,961000,473000
+P10253,Beauty & Personal Care,Beauty item 0253,106000,51000
+P10254,Home & Living,Home item 0254,144000,91000
+P10255,Home & Living,Home item 0255,254000,137000
+P10256,Footwear,Footwear item 0256,1625000,797000
+P10257,Sports & Outdoors,Sports item 0257,162000,94000
+P10258,Men's Fashion,Men's item 0258,153000,78000
+P10259,Women's Fashion,Women's item 0259,497000,212000
+P10260,Phones & Gadgets,Phones item 0260,4084000,3423000
+P10261,Sports & Outdoors,Sports item 0261,667000,379000
+P10262,Kitchen,Kitchen item 0262,1682000,1002000
+P10263,Beauty & Personal Care,Beauty item 0263,633000,289000
+P10264,Groceries,Groceries item 0264,388000,284000
+P10265,Accessories,Accessories item 0265,561000,224000
+P10266,Beauty & Personal Care,Beauty item 0266,82000,40000
+P10267,Kitchen,Kitchen item 0267,2934000,1878000
+P10268,Beauty & Personal Care,Beauty item 0268,522000,255000
+P10269,Home & Living,Home item 0269,740000,406000
+P10270,Pet Supplies,Pet item 0270,362000,203000
+P10271,Men's Fashion,Men's item 0271,1177000,588000
+P10272,Men's Fashion,Men's item 0272,392000,194000
+P10273,Beauty & Personal Care,Beauty item 0273,159000,74000
+P10274,Beauty & Personal Care,Beauty item 0274,121000,58000
+P10275,Electronics Accessories,Electronics item 0275,91000,61000
+P10276,Pet Supplies,Pet item 0276,495000,290000
+P10277,Electronics Accessories,Electronics item 0277,1435000,1006000
+P10278,Groceries,Groceries item 0278,26000,20000
+P10279,Footwear,Footwear item 0279,2025000,994000
+P10280,Men's Fashion,Men's item 0280,384000,201000
+P10281,Footwear,Footwear item 0281,1493000,828000
+P10282,Baby & Kids,Baby item 0282,1335000,686000
+P10283,Men's Fashion,Men's item 0283,853000,434000
+P10284,Men's Fashion,Men's item 0284,263000,115000
+P10285,Beauty & Personal Care,Beauty item 0285,102000,53000
+P10286,Footwear,Footwear item 0286,1237000,694000
+P10287,Kitchen,Kitchen item 0287,300000,184000
+P10288,Books & Stationery,Books item 0288,27000,18000
+P10289,Women's Fashion,Women's item 0289,487000,230000
+P10290,Home & Living,Home item 0290,234000,124000
+P10291,Women's Fashion,Women's item 0291,141000,67000
+P10292,Men's Fashion,Men's item 0292,219000,112000
+P10293,Footwear,Footwear item 0293,460000,241000
+P10294,Home & Living,Home item 0294,215000,113000
+P10295,Home & Living,Home item 0295,621000,351000
+P10296,Kitchen,Kitchen item 0296,469000,287000
+P10297,Sports & Outdoors,Sports item 0297,329000,187000
+P10298,Men's Fashion,Men's item 0298,769000,339000
+P10299,Phones & Gadgets,Phones item 0299,2670000,2157000
+P10300,Electronics Accessories,Electronics item 0300,41000,24000
+P10301,Women's Fashion,Women's item 0301,536000,221000
+P10302,Accessories,Accessories item 0302,615000,259000
+P10303,Women's Fashion,Women's item 0303,123000,56000
+P10304,Women's Fashion,Women's item 0304,123000,51000
+P10305,Footwear,Footwear item 0305,2433000,1254000
+P10306,Footwear,Footwear item 0306,266000,148000
+P10307,Health & Wellness,Health item 0307,1405000,752000
+P10308,Books & Stationery,Books item 0308,177000,116000
+P10309,Home & Living,Home item 0309,1284000,744000
+P10310,Phones & Gadgets,Phones item 0310,14055000,12436000
+P10311,Groceries,Groceries item 0311,46000,32000
+P10312,Beauty & Personal Care,Beauty item 0312,176000,81000
+P10313,Home & Living,Home item 0313,102000,59000
+P10314,Electronics Accessories,Electronics item 0314,1223000,732000
+P10315,Health & Wellness,Health item 0315,204000,115000
+P10316,Baby & Kids,Baby item 0316,269000,156000
+P10317,Women's Fashion,Women's item 0317,472000,217000
+P10318,Electronics Accessories,Electronics item 0318,72000,45000
+P10319,Footwear,Footwear item 0319,1046000,492000

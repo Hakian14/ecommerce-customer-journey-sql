@@ -1,0 +1,6 @@
+acquisition_channel,customers,repeaters,repeat_rate_pct,avg_orders_per_customer,median_days_to_2nd_order,avg_gap_between_orders,pct_repeat_within_30d,pct_repeat_within_90d
+referral,515,285,55.3,4.12,57.0,98.0,35.8,58.6
+organic_search,1100,599,54.5,3.8,59.0,102.0,29.5,62.6
+direct,381,190,49.9,3.67,76.0,104.0,31.1,55.8
+marketplace,897,408,45.5,2.98,64.0,106.0,29.7,58.3
+paid_social,997,383,38.4,2.37,87.0,124.0,26.1,51.7
