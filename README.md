@@ -99,6 +99,6 @@ and `DATE(ts, 'start of month')` with `date_trunc('month', ts)`. No other change
 ## About
 
 Built by **Ha Kieu Anh** — Data Analyst (5+ years in e-commerce, retail and CRM analytics), now also
-working in AI training & evaluation. [GitHub profile](https://github.com/Hakian14) · hakieuanh662@gmail.com
+working in AI training & evaluation. [GitHub](https://github.com/Hakian14) · [LinkedIn](https://www.linkedin.com/in/kieu-anh-ha-6249a3172/) · hakieuanh662@gmail.com
 
 License: [MIT](LICENSE)
